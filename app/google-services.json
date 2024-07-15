@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837249631491",
+    "project_id": "fir-integrity-c473a",
+    "storage_bucket": "fir-integrity-c473a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837249631491:android:3a3e8a683485d800175536",
+        "android_client_info": {
+          "package_name": "com.batch2.firebaseintegrity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUCbAFENG1KmBpIagrswTZ5_nne36o4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
